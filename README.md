@@ -15,9 +15,7 @@
 
 ## 🚀 Projeler
 
-| Proje | Açıklama |
-| :--- | :--- |
-| [Otonom Tarım Devriye Aracı](https://github.com/Halil1155/Autonomous-Agricultural-Patrol-Vehicle) | Raspberry Pi 5 + YOLOv8 ile bitki hastalığını gerçek zamanlı tespit eden ve hedefli ilaçlama yapan otonom araç (bitirme projesi) |
+Yeni projeler yakında eklenecek.
 
 ## 🛠️ Kullandığım Araçlar
 
